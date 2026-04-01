@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 🔥 Glass Effect */
+.glass-card {
+  backdrop-filter: blur(20px);
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+  transition: 0.3s;
+}
+
+.glass-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 40px rgba(138,43,226,0.5);
+}
+html {
+  scroll-behavior: smooth;
+}
+button:hover, a:hover {
+  text-shadow: 0 0 10px rgba(255,255,255,0.8);
+}
