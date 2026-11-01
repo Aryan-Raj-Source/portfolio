@@ -61,7 +61,7 @@ export default function App() {
           {/* Stats */}
           <div className="grid grid-cols-2 gap-4">
             <div className="glass-card text-center">2027<br/>Graduating</div>
-            <div className="glass-card text-center">7.26<br/>CGPA</div>
+            <div className="glass-card text-center">7.34<br/>CGPA</div>
             <div className="glass-card text-center">2+<br/>Projects</div>
             <div className="glass-card text-center">4+<br/>Certs</div>
           </div>
@@ -101,7 +101,7 @@ export default function App() {
             </p>
 
             <div className="mt-4 flex gap-4">
-              <a href="https://github.com/aryan238raj" target="_blank" className="underline">GitHub</a>
+              <a href="https://github.com/Aryan-Raj-Source/portfolio" target="_blank" className="underline">GitHub</a>
               <a href="#" className="underline">Live Demo</a>
             </div>
           </motion.div>
@@ -114,8 +114,8 @@ export default function App() {
             </p>
 
             <div className="mt-4 flex gap-4">
-              <a href="https://github.com/aryan238raj" target="_blank" className="underline">GitHub</a>
-              <a href="https://ai-fitness-coach-drab.vercel.app/" className="underline">Live Demo</a>
+              <a href="https://github.com/Aryan-Raj-Source/Ai-Fitness--Coach" target="_blank" className="underline">GitHub</a>
+              <a href="https://ai-fitness-coach-cyan.vercel.app/" className="underline">Live Demo</a>
             </div>
           </motion.div>
 
