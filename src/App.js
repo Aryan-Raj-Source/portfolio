@@ -41,7 +41,7 @@ export default function App() {
 
         <div className="mt-8 flex gap-4">
           <a href="#projects" className="glass-card hover:scale-105">View Work</a>
-          <a href="https://drive.google.com/file/d/1ywgnhLLY0r5Xo87W_mv2j6NSvm_w-yuH/view" className="glass-card hover:scale-105">Resume</a>
+          <a href="https://drive.google.com/file/d/1vmDKWSJOxzQB8CaLp4B0W-87PpvpnQqe/view?usp=sharing" className="glass-card hover:scale-105">Resume</a>
         </div>
       </section>
 
